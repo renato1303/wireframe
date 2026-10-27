@@ -1,0 +1,6 @@
+{
+  "name": "Será Cacau B2B",
+  "description": "E-commerce B2B e landing page oficial da Será Cacau para cafeterias, empórios, hotéis e restaurantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

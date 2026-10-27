@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Manrope', sans-serif;
+    background-color: #F0EAE0;
+    color: #2B332F;
+    overflow-x: hidden;
+  }
+  
+  h1, h2, h3, h4, h5, h6, .font-serif {
+    font-family: 'Cormorant Garamond', serif;
+  }
+}
+
+/* Custom color classes matching brand guidelines */
+.bg-seracacau-dark { background-color: #2B332F; }
+.bg-seracacau-bege { background-color: #F0EAE0; }
+.bg-seracacau-terracotta { background-color: #C8704A; }
+.bg-seracacau-sage { background-color: #8FA888; }
+.bg-seracacau-gold { background-color: #C4A26A; }
+
+.text-seracacau-dark { color: #2B332F; }
+.text-seracacau-bege { color: #F0EAE0; }
+.text-seracacau-terracotta { color: #C8704A; }
+.text-seracacau-sage { color: #8FA888; }
+.text-seracacau-gold { color: #C4A26A; }
+
+.border-seracacau-dark { border-color: #2B332F; }
+.border-seracacau-bege { border-color: #F0EAE0; }
+.border-seracacau-terracotta { border-color: #C8704A; }
+.border-seracacau-sage { border-color: #8FA888; }
+.border-seracacau-gold { border-color: #C4A26A; }
